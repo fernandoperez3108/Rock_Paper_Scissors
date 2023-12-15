@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://fernandoperez3108.github.io/Rock_Paper_Scissors)
 
 
 ## Getting Started
@@ -46,8 +46,6 @@ To get a local copy up and running follow these simple example steps.
 👤 **Fernando Pérez**
 
 - GitHub: [fernandoperez3108](https://github.com/fernandoperez3108)
-
-
 
 ## 🤝 Contributing
 
